@@ -22,7 +22,7 @@ This repository contains a classic Pong game implemented in x86 assembly languag
   - Direct manipulation of VGA text memory to render the game board, paddles, and ball.
   
 - **Paddle Controls**:
-  - Player 1 and Player 2 paddles can move up, down, left, and right.
+  - Player 1 and Player 2 paddles can move up and down.
 
 - **Score Display**:
   - Real-time score updates.
@@ -70,14 +70,10 @@ This repository contains a classic Pong game implemented in x86 assembly languag
 - **Player 1 (Paddle 1)**:
   - Move Up: UP KEY
   - Move Down: DOWN KEY
-  - Move Left: LEFT KEY
-  - Move Right: RIGHT KEY
 
 - **Player 2 (Paddle 2)**:
   - Move Up: W
   - Move Down: S
-  - Move Left: A
-  - Move Right: D
 
 ## Gameplay
 
